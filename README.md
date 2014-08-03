@@ -1,2 +1,2 @@
-maventest
-=========
+maven-repository
+================
